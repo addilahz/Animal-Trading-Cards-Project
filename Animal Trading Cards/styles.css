@@ -1,0 +1,36 @@
+/* add your CSS here */
+
+.tradingcard {
+	width: 350px;
+	border: 1px solid #c0c0c0;
+	padding: 10px;
+	box-shadow: 0px 5px 10px #c0c0c0;
+
+}
+
+.funfacts {
+	font-style: italic;
+
+}
+
+ul {
+	list-style-type: none;
+	padding: 5px;
+	margin: 5px;
+}
+
+li span {
+	font-weight: bold;
+	font-style: normal;
+}
+
+li {
+	font-style: italic;
+}
+
+.details {
+	width: 330px;
+	border: 0.5px solid #c0c0c0;
+	padding: 10px;
+
+}
